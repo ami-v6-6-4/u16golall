@@ -9,4 +9,4 @@ go:
 build:
     
   ci:
-    - go version  
+    - go version
